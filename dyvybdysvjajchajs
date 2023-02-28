@@ -32,11 +32,11 @@
   --home-button-image: url('https://i.imgur.com/MwgLzjP.jpg');
   --home-button-size: contain;
   --home-button-position: center;
-  --serverlist-brightness: 0.4;
-  --left-brightness: 0.52;
-  --middle-brightness: 0.32;
-  --right-brightness: 0.22;
-  --overlay-brightness: 0.48;
+  --serverlist-brightness: 0.78;
+  --left-brightness: 0.78;
+  --middle-brightness: 0.78;
+  --right-brightness: 0.78;
+  --overlay-brightness: 0.76;
   --gradient-primary: 248,165,207;
   --gradient-secondary: 248,165,207;
   --link-colour: #B85BB6;
