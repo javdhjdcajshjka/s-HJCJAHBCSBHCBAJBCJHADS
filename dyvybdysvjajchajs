@@ -17,7 +17,7 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://i.imgur.com/fVb9Emy.png');
+  --background-image: url('https://64.media.tumblr.com/81072460f6db9d7007dcc97d5754944c/tumblr_oqkvyfCcZh1spc2j3o1_1280.png');
   --background-image-blur: 0px;
   --background-image-size: 150%;
   --background-image-position: center left;
