@@ -11,6 +11,7 @@
  * @BDEditor Frosted Glass
 */
 
+@import url('https://fonts.googleapis.com/css2?family=GG+Sans:wght@100;300;400;500;700&display=swap');
 @import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
@@ -31,10 +32,10 @@
   --home-button-image: url('https://i.imgur.com/MwgLzjP.jpg');
   --home-button-size: contain;
   --home-button-position: center;
-  --serverlist-brightness: 0.24;
-  --left-brightness: 0.36;
-  --middle-brightness: 0.22;
-  --right-brightness: 0.08;
+  --serverlist-brightness: 0.4;
+  --left-brightness: 0.52;
+  --middle-brightness: 0.32;
+  --right-brightness: 0.22;
   --overlay-brightness: 0.48;
   --gradient-primary: 248,165,207;
   --gradient-secondary: 248,165,207;
